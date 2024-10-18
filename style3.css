@@ -1,0 +1,41 @@
+.box{
+    height: 300px;
+    width: 300px;
+    border: 3px solid black;
+    padding: 20px;
+    margin-top: 200px;
+    border-radius: 5px;
+    background:  transparent;
+
+    
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    background-image: url(https://i.pinimg.com/736x/4b/5b/1f/4b5b1fbf25663717a8b1c2ec1a3bf568.jpg);
+    background-size: cover;
+    
+}
+.login-container h2{
+    text-align: center;
+    margin-top: 40px;
+    
+    
+}
+.input-grp label{
+    margin: 15px;
+    display: block;
+    font-weight: bolder;
+    font-size: 20px;
+    
+
+
+}
+button{
+    /* text-align: center; */
+    margin-left: 120px;
+    margin-top: 20px;
+    
+}
